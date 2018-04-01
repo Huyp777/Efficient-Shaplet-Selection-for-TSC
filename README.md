@@ -7,8 +7,7 @@ Shapelets are not only subsequences extracted from one time series, but also hav
 of class membership. With the help of shapelets, TSC can utilize the similarity between two shapelets, rather than the similarity between two entire time series, to complete time series classification. In consequence, the overall performance of these shapelet based TSC methods can be greatly enhanced, moreover the appropriate shapelets can provide enough information to make the results of classification more explainable. Therefore, after that, an evolutionary algorithm by utilizing shapelets for TSC have been proposed. Shapelet
 Transformation(ST), which not only optimizes the process of shapelets evaluation, but also allows various classification
 strategies(SVM,Random forest,etc.) to be adopted to classify time series objects after the shapelets selection process has
-been completed. After the corresponding speedup strategy for Shaplets selection by "Finding the central sequence","Subclassing & Sample time series " and "Refining shapelet Candidates", the overall efficiency for TSC has been greatly improved.
-part of results have been sown as follow.
+been completed. After the corresponding speedup strategy for Shaplets selection by "Finding the central sequence","Subclassing & Sample time series " and "Refining shapelet Candidates by IDPs".The part of results are shown as follow.
 ![image](https://github.com/Huyp777/MPLR-IDP-for-TSC/blob/master/1.png)
 ![image](https://github.com/Huyp777/MPLR-IDP-for-TSC/blob/master/2.png)
 ![image](https://github.com/Huyp777/MPLR-IDP-for-TSC/blob/master/3.png)
