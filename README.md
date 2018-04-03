@@ -19,6 +19,7 @@ Part of comparision experimental results
 ----------------------------------------------------
 
 Comparision experiments from originial ST,  ST-R(Refine strategy with IDP ) , ST-S(Selection strategy) and the ESS (utilizes all the strategies together to improve the efficiency of ST) 
+![image](https://github.com/Huyp777/Efficient-Shaplet-Selection-for-TSC/blob/master/results.png)
 ![image](https://github.com/Huyp777/Efficient-Shaplet-Selection-for-TSC/blob/master/1.png)
 ![image](https://github.com/Huyp777/Efficient-Shaplet-Selection-for-TSC/blob/master/2.png)
 ![image](https://github.com/Huyp777/Efficient-Shaplet-Selection-for-TSC/blob/master/3.png)
