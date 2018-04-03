@@ -15,7 +15,7 @@ Efficient Shapelet selection for ST
 ------------------------------------------------
 The team tried to use various acceleration strategies to accelerate the corresponding shapelet selection for traditional ST, thereby improving the overall efficiency of ST in TSC.  the corresponding speedup strategies for Shaplets selection include "Finding the central sequence","Subclassing & Sample time series " , "Refining shapelet Candidates by IDPs" and  etc.
 
-The part of results of comparision experiments 
+Part of comparision experimental results 
 ----------------------------------------------------
 
 Comparision experiments from originial ST,  ST-R(Refine strategy with IDP ) , ST-S(Selection strategy) and the ESS (utilizes all the strategies together to improve the efficiency of ST) 
