@@ -8,6 +8,7 @@ of class membership. With the help of shapelets, TSC can utilize the similarity 
 Transformation(ST), which not only optimizes the process of shapelets evaluation, but also allows various classification
 strategies(SVM,Random forest,etc.) to be adopted to classify time series objects after the shapelets selection process has
 been completed. After the corresponding speedup strategy for Shaplets selection by "Finding the central sequence","Subclassing & Sample time series " and "Refining shapelet Candidates by IDPs".
+<br>
 The part of results are shown as follow.
 Comparision experiments from originial ST,  ST-R(Refine strategy with IDP ) , ST-S(Selection strategy) and the ESS (utilizes the above two strategies together to improve the efficiency of ST) 
 ![image](https://github.com/Huyp777/MPLR-IDP-for-TSC/blob/master/1.png)
