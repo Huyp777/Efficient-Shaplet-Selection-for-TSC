@@ -11,7 +11,7 @@ Shapelet Transformation(ST)
 --------------------------------------
 ST, which not only optimizes the process of shapelets evaluation, but also allows various classification strategies(SVM,Random forest,etc.) to be adopted to classify time series objects after the shapelets selection process has been completed.
 
-Efficient Shapelet selection for ST 
+Efficient Shapelet Selection for ST 
 ------------------------------------------------
 The team tried to use various acceleration strategies to accelerate the corresponding shapelet selection for traditional ST, thereby improving the overall efficiency of ST in TSC.  the corresponding speedup strategies for Shaplets selection include "Finding the central sequence","Subclassing & Sample time series " , "Refining shapelet Candidates by IDPs" and  etc.
 
