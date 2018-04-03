@@ -1,7 +1,7 @@
 # Efficient Shapelets Selection Approach
 
-Time series classification (TSC)
-===================================
+# Time series classification (TSC)
+
 TSC has been attracting great interest over the past decade. While dozens of techniques
 have been introduced, recent empirical evidence has strongly suggested that shapelets based TSC algorithms outperform
 many previous TSC algorithms in terms of accuracy,efficiency and interpretability. According to the concept of shapelets
